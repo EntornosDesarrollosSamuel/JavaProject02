@@ -5,7 +5,7 @@ public class Prueba01 {
 		// TODO Auto-generated method stub
 
 
-		System.out.println("modificado desde eclipse");
+		System.out.println("modificado desde github");
 
 	}
 
